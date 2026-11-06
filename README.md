@@ -2,7 +2,7 @@
 
 ## 📌 Sobre o projeto
 
-Este projeto consiste na criação de um segundo cérebro especializado em **QA (Quality Assurance) e Testes de Software**, utilizando o Google NotebookLM como ferramenta de apoio aos estudos.
+Este projeto consiste na criação de um segundo cérebro especializado em QA (Quality Assurance) e Testes de Software, utilizando o Google NotebookLM como ferramenta de apoio aos estudos.
 
 O objetivo é reunir fontes confiáveis, organizar conhecimentos técnicos e desenvolver um ambiente de aprendizagem que auxilie na compreensão dos fundamentos de qualidade, técnicas de teste, testes de API e automação com C# e .NET.
 
@@ -51,11 +51,11 @@ Para complementar o conhecimento, foi realizada uma pesquisa adicional utilizand
 
 A hierarquia identificada, da maior para a menor precedência, foi:
 
-1. Local
-2. Data
-3. Environment
-4. Collection
-5. Global
+1. Local (Local)
+2. Dados (Data)
+3. Ambiente (Environment)
+4. Coleção (Collection)
+5. Global (Global)
 
 Essa pesquisa complementar foi incorporada ao notebook, mantendo a distinção entre as fontes originais e o conteúdo pesquisado posteriormente.
 
@@ -74,7 +74,7 @@ As orientações definidas incluem:
 
 ## 🧪 Perguntas e testes de validação
 
-Foram realizadas perguntas para verificar a qualidade das respostas, a utilização das fontes e a capacidade de identificar limitações do conhecimento disponível.
+Foram realizadas cinco atividades de validação para verificar a qualidade das respostas, a utilização das fontes e a capacidade de identificar limitações do conhecimento disponível.
 
 ### Teste 1 — Erro, defeito e falha
 
@@ -121,10 +121,17 @@ Foram abordados:
 
 ## 📦 Materiais produzidos
 
-Os materiais desenvolvidos durante o desafio estão organizados na pasta `materiais`:
+### 🧠 Mapa mental — QA e Testes de Software
 
-- **Mapa mental de QA e Testes:** representação visual dos principais conceitos estudados.
-- **Guia de estudos de QA:** material de apoio para organizar e aprofundar os estudos.
+O mapa mental apresenta visualmente os principais conceitos estudados e a organização dos conhecimentos abordados no projeto.
+
+![Mapa mental de QA e Testes de Software](materiais/mapa-mental-qa-testes.png)
+
+### 📖 Guia de estudos de QA
+
+Material de apoio desenvolvido para organizar os conteúdos e orientar o aprofundamento dos estudos.
+
+📥 **[Visualizar ou baixar o Guia de Estudos de QA (PDF)](materiais/guia-de-estudos-qa.pdf)**
 
 ## 📁 Estrutura do repositório
 
@@ -140,7 +147,7 @@ qa-second-brain/
 │   ├── mapa-mental-qa-testes.png
 │   └── guia-de-estudos-qa.pdf
 │
-└──evidencias/
+└── evidencias/
     ├── 1.png
     ├── 2.png
     ├── 3.png
@@ -157,13 +164,17 @@ qa-second-brain/
     └── notebook-chat-xunit-mstest.png
 ```
 
-*Os arquivos de evidências devem ser adicionados à pasta correspondente conforme forem organizados.*
+A pasta `fontes` contém as referências utilizadas na pesquisa.
+
+A pasta `materiais` reúne o mapa mental e o guia de estudos produzidos durante o desafio.
+
+A pasta `evidencias` reúne as capturas de tela que documentam as atividades e validações realizadas durante o desenvolvimento do projeto.
 
 ## 🔗 Acesso ao NotebookLM
 
 **Notebook:** QA — Segundo Cérebro: Especialista em Testes de Software.
 
-Acesse o notebook compartilhado pelo link disponibilizado no projeto.
+📚 **[Acessar o segundo cérebro no NotebookLM](https://notebook.google.com/notebook/16bb2800-64fb-4710-8e58-d312c685f4c4)**
 
 ## 🛠️ Tecnologias e ferramentas
 
@@ -195,8 +206,8 @@ O desenvolvimento deste projeto proporcionou a oportunidade de:
 
 Estudante de Análise e Desenvolvimento de Sistemas, com interesse em QA, Testes de Software, automação com C#/.NET e qualidade de software.
 
-- GitHub: rubia-brito
-- LinkedIn: rubia-brito-dev
+- GitHub: [rubia-brito](https://github.com/rubia-brito)
+- LinkedIn: [rubia-brito-dev](https://linkedin.com/in/rubia-brito-dev)
 
 ---
 
