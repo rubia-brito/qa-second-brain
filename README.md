@@ -140,13 +140,20 @@ qa-second-brain/
 │   ├── mapa-mental-qa-testes.png
 │   └── guia-de-estudos-qa.pdf
 │
-└── evidencias/
-    ├── notebook-fontes.png
-    ├── notebook-chat-erro-defeito-falha.png
-    ├── notebook-chat-principios-istqb.png
-    ├── notebook-chat-postman-sem-fonte.png
-    ├── notebook-chat-postman-pesquisa.png
-    ├── notebook-chat-testes-unitarios.png
+└──evidencias/
+    ├── 1.png
+    ├── 2.png
+    ├── 3.png
+    ├── 4.png
+    ├── 5.png
+    ├── 6.png
+    ├── 7.png
+    ├── 8.png
+    ├── 9.png
+    ├── 10.png
+    ├── 11.png
+    ├── 12.png
+    ├── 13.png
     └── notebook-chat-xunit-mstest.png
 ```
 
